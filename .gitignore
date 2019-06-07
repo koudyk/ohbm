@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Jupyter checkpoints (so I don't accidentally upload the access key - not sure if it's saved in the checkpoints)
+doc/.ipynb_checkpoints/
